@@ -22,4 +22,5 @@ Intereses técnicos:
 * Herramientas para desarrolladores
 
 📁 Sobre este repositorio
+
 Este repositorio reúne proyectos académicos y personales creados con el objetivo de aprender, mejorar mis habilidades técnicas y explorar nuevas tecnologías.
