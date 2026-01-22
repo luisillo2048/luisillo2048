@@ -8,7 +8,7 @@ Me interesa construir soluciones claras y eficientes, fortalecer mis bases en pr
 
 🛠️ Tecnologías y áreas de interés
 
-**Lenguajes:** Python, Java, JavaScript, C
+**Lenguajes:** HTML, CSS, Python, Java, JavaScript, C
 
 **Frameworks:** React, Laravel, React Native
 
@@ -20,7 +20,3 @@ Intereses técnicos:
 * Automatización y scripting
 * Backend y lógica de negocio
 * Herramientas para desarrolladores
-
-📁 Sobre este repositorio
-
-Este repositorio reúne proyectos académicos y personales creados con el objetivo de aprender, mejorar mis habilidades técnicas y explorar nuevas tecnologías.
