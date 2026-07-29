@@ -1,6 +1,6 @@
 👋 Hola, soy Luis
 
-Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de software y los sistemas de cómputo. Me caracterizo por mi curiosidad técnica y por la búsqueda constante de entender cómo funcionan las cosas a fondo, desde el código hasta el sistema.
+Soy ingeniero de software con un fuerte interés en el desarrollo de software y los sistemas de cómputo. Me caracterizo por mi curiosidad técnica y por la búsqueda constante de entender cómo funcionan las cosas a fondo, desde el código hasta el sistema.
 
 🧠 Enfoque técnico
 
